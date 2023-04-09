@@ -268,10 +268,9 @@
   .section-subtitle_theme_dark {
     color: white;
   }
-  /* из-за первоначального незнания команд git в проект попало еще несколько папок, из-за чего у вас не отображалась картинка,
-  надеюсь сейчас это исправилось, если нет, прошу дать шанс, нехочется уходить в академ из-за недоразумения */ 
+  
   .kaufman__triangle {
-    background-image: url(/images/kaufman-triangle.svg);
+    background-image: url(../images/kaufman-triangle.svg);
     position: absolute;
     top: 0;
     background-size: cover;
